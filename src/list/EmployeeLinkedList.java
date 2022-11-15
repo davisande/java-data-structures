@@ -1,4 +1,4 @@
-package List;
+package list;
 
 public class EmployeeLinkedList {
     private EmployeeNode head;
